@@ -1,0 +1,5 @@
+Sale Date,Store Location,Customer Gender,Customer Age,Customer Satisfaction,Item Name,Item Tags,Price,Quantity,Total Price,Coupon Used,Purchase Method
+2015-03-23 21:06:49.506,Denver,M,42,4,notepad,"office, writing, school",35.29,2,70.58,True,Online
+2015-03-23 21:06:49.506,Denver,M,42,4,pens,"writing, office, school, stationary",56.12,5,280.59999999999997,True,Online
+2015-03-23 21:06:49.506,Denver,M,42,4,envelopes,"stationary, office, general",19.95,8,159.6,True,Online
+2015-03-23 21:06:49.506,Denver,M,42,4,binder,"school, general, organization",14.16,3,42.480000000000004,True,Online
